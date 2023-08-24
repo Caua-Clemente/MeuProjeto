@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Introdução do projeto da atividade 2
+=======
+Arquivo de introducao ao projeto da atividade 02
+
+Adicionando informações ao feature-navbar pra posteriormente
+dar merge no main
+
+>>>>>>> feature-navbar
