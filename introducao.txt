@@ -7,3 +7,5 @@ Adicionando informações ao feature-navbar pra posteriormente
 dar merge no main
 
 >>>>>>> feature-navbar
+
+Fazendo uma alteração indesejada
