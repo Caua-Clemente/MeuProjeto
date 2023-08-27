@@ -1,0 +1,29 @@
+01 - Já havia instalado o git bash há um tempo atrás
+
+02 03 - Configurei meu user.name e user.email.
+
+04 - inicializando o git
+
+05 06 - tive de fazer algumas alterações para conseguir fazer o 
+novo branch: mudei o nome de master pra main e fiz um commit
+
+07 - fazendo alteração no navbar e mostrando que não há diferença
+no main
+
+08 09 - fazendo o merging do branch main 
+
+10 11 - Fazendo .gitignore e usando o nano para adicionar o arquivo
+secreto a ele
+
+12 a 14 - Criando um repositório remoto no github e dando push do meu 
+repositório local a ele
+
+15 - Clonando o repositório de uma colega
+
+16 a 18 - Fazendo o fork e pull request no repositório de uma colega
+
+19 - Dgit log para ver o histórico de commits no main local
+
+20 - git revert
+
+21 - Criando duas tags (v1.0 e v2.0) com informações diferentes 
