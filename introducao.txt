@@ -7,4 +7,6 @@ Adicionando informações ao feature-navbar pra posteriormente
 dar merge no main
 
 Adicionando informações para o v2.0
+
+adicionando informações para conflito 
 >>>>>>> feature-navbar
