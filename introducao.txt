@@ -10,3 +10,7 @@ Adicionando informações para o v2.0
 
 adicionando informações para conflito 
 >>>>>>> feature-navbar
+
+
+________
+Add de João Manoel
