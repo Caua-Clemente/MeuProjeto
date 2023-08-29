@@ -8,7 +8,7 @@ dar merge no main
 
 Adicionando informações para o v2.0
 
-adicionando informações para conflito 
+adicionando informações para conflito (Cauã)s
 >>>>>>> feature-navbar
 
 
