@@ -8,3 +8,7 @@ dar merge no main
 
 Adicionando informações para o v2.0
 >>>>>>> feature-navbar
+
+
+________
+Add de João Manoel
